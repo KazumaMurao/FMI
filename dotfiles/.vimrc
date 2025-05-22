@@ -1,5 +1,7 @@
+
 "vi Compatible OFF
 set nocompatible
+set hlsearch
 
 "Display
 set number
@@ -9,9 +11,9 @@ syntax on
 "Input
 set backspace=2
 set autoindent
-set shiftwidth=4
+"set shiftwidth=4
 set tabstop=4
-"set expandtab
+set expandtab
 
 "Encode
 set encoding=utf-8
